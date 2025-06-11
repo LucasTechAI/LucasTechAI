@@ -2,7 +2,7 @@
 
 **AI & Data Scientist | LLMs & NLP | Python, SQL & Cloud Solutions**
 
-Hi! I'm Lucas, a Data Scientist from Brazil with over 4 years of experience building data-driven solutions using Python, LLM, AI and cloud technologies.
+Hi! I'm Lucas, a Data Scientist from Brazil with over 4 years of experience building data-driven solutions using AI, LLMs, and NLP.
 
 ## 🔍 About Me
 
